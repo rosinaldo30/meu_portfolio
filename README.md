@@ -8,3 +8,14 @@ Autor do Projeto: Rosinaldo Alves da Silva
 Link do projeto: https://github.com/rosinaldo30/desafioMaratonaBehind_theCode-2021_Bantotal.git
 
 
+## Projeto 2
+
+# Introdução
+Este é um projeto de Ciência de Dados para prever a emissão de CO2 na atmosfera. Com base em dados anteriores, poderá ser previsto a emissão de outros veículos, com base nos dados coletados. Sendo assim, será utilizado o modelo de Aprendizado de Máquina de regressão Múltipla. O modelo de Regressão Multipla é semelhante ao de regressão linear, sua diferença é que ele utiliza mais de uma variável, tornando assim o modelo mais eficaz.
+
+### Autor: Rosinaldo Alves da Silva
+
+Link do projeto: https://github.com/rosinaldo30/identificacaoDaEmissaoDeCO2.git
+
+
+
