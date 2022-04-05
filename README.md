@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Projetos de Ciência de Dados
 
-You can use the [editor on GitHub](https://github.com/rosinaldo30/meu_portifolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Introdução
+Este é um projeto desenvolvido para a (Maratona Behind the Code 2021), em que, consiste em resolver um problema de classificação de usuários do Banco Bantotal (Bantotal é uma instituição bancaria lider na América Latina, que resolve as operações de missão crítica das Instituições Financeiras de forma simples e precisa). O principal Objetivo desse projeto é criar um modelo de Aprendizado de Máquina capaz de realiza uma análise de risco para predizer se um determinado empréstimo solicitado por um cliente, deve ser aprovado ou não.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Autor do Projeto: Rosinaldo Alves da Silva
 
-### Markdown
+Link do projeto: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosinaldo30/meu_portifolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
